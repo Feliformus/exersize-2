@@ -1,0 +1,21 @@
+body{
+    background-color: #ddd;
+    line-height: 1.5;
+}
+
+li {
+    font-family: serif;
+    font-size: 24px;
+    border: 1px solid #000;
+    background: white;
+    font-weight: bolder;
+    padding: 15px 0px;
+}
+.flex {
+    display: flex;
+    justify-content: space-between;
+}
+
+/* I am sorry this excersize is late -  it took me a long time to get git 
+working properly on my computer - I wanted to ensure that I understood 
+how/why it worked so I struggled through and am glad that I did!! */
